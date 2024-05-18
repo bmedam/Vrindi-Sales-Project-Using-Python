@@ -1,4 +1,5 @@
-Vrindi Sales Project
+Vrindi Sales Project:
+
 The Vrindi Sales Project is a Python-based data analysis project aimed at providing insights into sales data from the Vrindi Store. It offers comprehensive functionalities for data cleaning, exploration, visualization, and interpretation using popular libraries like Pandas, Matplotlib, and Jupyter Notebook.
 
 Key Features:
