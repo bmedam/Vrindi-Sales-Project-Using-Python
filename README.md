@@ -3,10 +3,10 @@
 The Vrindi Sales Project is a Python-based data analysis project aimed at providing insights into sales data from the Vrindi Store. It offers comprehensive functionalities for data cleaning, exploration, visualization, and interpretation using popular libraries like Pandas, Matplotlib, and Jupyter Notebook.
 
 ## Key Features:
-1. Streamlined Analysis: Quickly clean and preprocess sales data, perform exploratory data analysis (EDA), and visualize trends.
-2. Insightful Visualizations: Generate insightful visualizations to understand sales patterns, customer behaviour, and product performance.
-3. Customizable Analysis: Easily adapt the analysis to specific business needs and requirements.
-4. Interactive Environment: Utilize Jupyter Notebook for an interactive and collaborative analysis environment.
+1. **Streamlined Analysis:** Quickly clean and preprocess sales data, perform exploratory data analysis (EDA), and visualize trends.
+2. **Insightful Visualizations:** Generate insightful visualizations to understand sales patterns, customer behaviour, and product performance.
+3. **Customizable Analysis:** Easily adapt the analysis to specific business needs and requirements.
+4. **Interactive Environment:** Utilize Jupyter Notebook for an interactive and collaborative analysis environment.
 
 ## Technologies Used:
 1. Python
