@@ -23,7 +23,7 @@ The Vrindi Sales Project is a Python-based data analysis project aimed at provid
 ## Contact Information:
 For questions or feedback, please contact:
 
--`Email: bhavyamedam@gmail.com`
+- `Email: bhavyamedam@gmail.com`
 
 Acknowledgements:
 Special thanks to @rishabhnmishra
